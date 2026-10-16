@@ -1,0 +1,21 @@
+
+
+
+name=input("enter your name")
+print(name)
+age=int(input("enter your age:"))
+print(age)
+cource_name=(input("enter your cource"))
+print("course name")
+mark_for_subject_1=float(input("enter mark of subject 1"))
+print("subject 1 mark")
+mark_for_subject_2=float(input("enter mark of subject 2"))
+print("subjrct 2 mark")
+mark_of_subject_3=float(input("enter mark of subject 3"))
+print("mark of subject 3")
+total_mark=int(input("enter total marks"))
+print("total marks")
+averge_mark=float(input("enter average mark"))
+print("average mark")
+eligible_for_next_year=bool(input("enter eligible for next level"))
+print("eligible for next year")
