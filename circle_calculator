@@ -1,0 +1,7 @@
+radius=float(input("print radius of circle"))
+print("radius:",radius)
+pi=3.14
+area= pi * radius * radius
+print("area of the circle:",area)
+circumstance= 2 * pi * radius
+print("circumstance of circle:",circumstance)
