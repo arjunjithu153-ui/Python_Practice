@@ -1,0 +1,16 @@
+num = int(input("Enter a number: "))
+# Check even or odd
+if num % 2 == 0:
+    print("Even number")
+else:
+    print("Odd number")
+# Check positive or negative
+if num > 0:
+    print("Positive number")
+elif num < 0:
+    print("Negative number")
+else:
+    print("Zero")
+# Find square
+square = num ** 2
+print("Square:", square)
