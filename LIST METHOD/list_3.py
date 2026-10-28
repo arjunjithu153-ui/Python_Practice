@@ -1,0 +1,9 @@
+a=["apple","carrot","cherry"]
+a[2]="banana"
+print(a)
+a.append("orange")
+print(a)
+a.extend(["cherry","beetroot","cherry"])
+print(a)
+a.insert(1,"orange")
+print(a)

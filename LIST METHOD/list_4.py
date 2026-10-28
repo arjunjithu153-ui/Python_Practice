@@ -1,0 +1,12 @@
+a=[10,20,30,40]
+print(a)
+print(a)
+print(a.index(20))
+print(a.index(50))
+print(a.index(10))
+print(a.count(10))
+print(a.count(30))
+a.sort()
+print(a)
+a.sort(reverse=True)
+print(a)
